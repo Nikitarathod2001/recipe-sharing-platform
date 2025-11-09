@@ -40,7 +40,7 @@ Follow these steps to set up and run the project locally 👇
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/recipe-sharing-platform.git
+git clone https://github.com/Nikitarathod2001/recipe-sharing-platform.git
 cd recipe-sharing-platform
 ```
 
