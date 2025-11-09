@@ -19,18 +19,11 @@ This project allows users to create, view, and explore recipes with detailed ing
 
 ## Tech Stack
 
-### Frontend
-- React.js  (Using Vite)
-- React Router  
-- Axios  
-- Tailwind CSS
-
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB with Mongoose  
-- dotenv for environment configuration  
-- CORS enabled for frontend-backend communication  
+| Layer | Technology |
+|--------|-------------|
+| Frontend | React.js, Tailwind CSS, Axios, React Router DOM, React Toastify |
+| Backend | Node.js, Express.js, MongoDB (Mongoose), dotenv, CORS |
+| Tools | VS Code, Git, GitHub, npm |  
 
 ---
 
